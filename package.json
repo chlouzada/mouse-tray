@@ -1,0 +1,24 @@
+{
+  "name": "mouse-tray",
+  "version": "1.0.0",
+  "description": "Capture Mouse Movement",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chlzd/mouse-tray.git"
+  },
+  "keywords": [],
+  "author": "chlzd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chlzd/mouse-tray/issues"
+  },
+  "homepage": "https://github.com/chlzd/mouse-tray#readme",
+  "devDependencies": {
+    "electron": "^12.0.6"
+  }
+}
